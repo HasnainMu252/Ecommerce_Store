@@ -1,3 +1,6 @@
+
+![home](https://github.com/HasnainMu252/Ecommerce_Store/assets/127546719/a9a3e50a-2c64-41a3-a947-d0f853721cad)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
